@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-25">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Acer/Downloads/spring-context-4.0.6.RELEASE.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Acer/Downloads/spring-core-4.0.6.RELEASE.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Acer/Downloads/spring-beans-4.0.6.RELEASE.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Acer/Downloads/spring-expression-4.0.6.RELEASE.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Acer/Downloads/commons-logging.jar.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
